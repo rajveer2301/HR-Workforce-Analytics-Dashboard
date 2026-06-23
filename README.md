@@ -67,15 +67,15 @@ The dashboard was developed using a dataset containing 50,000 employee records a
 
 ### Executive Workforce Overview
 
-![Executive Workforce Overview](Daskboard%20Images/Executive%20Workforce%20Overview.png)
+![Executive Workforce Overview](Dashboard Images/Executive Workforce Overview.png)
 
 ### Employee Attrition & Retention Analysis
 
-![Employee Attrition & Retention Analysis](Daskboard%20Images/Employee%20Attrition%20%26%20Retention%20Analysis.png)
+![Employee Attrition & Retention Analysis](Dashboard Images/Employee Attrition & Retention Analysis.png)
 
 ### Performance, Promotion & Leadership Analysis
 
-![Performance, Promotion & Leadership Analysis](Daskboard%20Images/Performance,%20Promotion%20%26%20Leadership%20Analysis.png)
+![Performance, Promotion & Leadership Analysis](Dashboard Images/Performance, Promotion & Leadership Analysis.png)
 
 
 
