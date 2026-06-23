@@ -63,6 +63,22 @@ The dashboard was developed using a dataset containing 50,000 employee records a
 * Average Job Satisfaction: 2.99
 * Attrition Rate: 33.26%
 
+## Dashboard Preview
+
+### Executive Workforce Overview
+
+![Executive Workforce Overview](Daskboard%20Images/Executive%20Workforce%20Overview.png)
+
+### Employee Attrition & Retention Analysis
+
+![Employee Attrition & Retention Analysis](Daskboard%20Images/Employee%20Attrition%20%26%20Retention%20Analysis.png)
+
+### Performance, Promotion & Leadership Analysis
+
+![Performance, Promotion & Leadership Analysis](Daskboard%20Images/Performance,%20Promotion%20%26%20Leadership%20Analysis.png)
+
+
+
 ## Repository Structure
 
 HR-Workforce-Analytics-Dashboard
